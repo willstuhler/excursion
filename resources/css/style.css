@@ -11,8 +11,25 @@ html {
   text-align: center;
 }
 
-.download {
+.download a {
   color: aquamarine;
   font-size: 16px;
   font-family: Verdana;
+}
+
+p {
+  Font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
 }
